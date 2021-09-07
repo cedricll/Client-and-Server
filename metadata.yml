@@ -1,0 +1,14 @@
+---
+:id: 67375454
+:submitters:
+- :name: Shuvam Raj Satyal
+  :email: ssatyal@uci.edu
+- :name: Cedric L. Lim
+  :email: cedricll@uci.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-03-01 05:28:30.642639000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-02-28 21:28:30.642639000 Z
+:status: processed
+:score: 90.0
